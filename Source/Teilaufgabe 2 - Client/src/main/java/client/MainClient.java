@@ -4,7 +4,9 @@ import client.communication.Communication;
 import client.controller.GameController;
 
 
-
+/**
+Testing the git extension for VSCode
+ */
 public class MainClient {
 
 	public static void main(String[] args) {
